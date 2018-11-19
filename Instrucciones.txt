@@ -1,0 +1,3 @@
+Para ejecutar la aplicaciones debemos ejecutar la clase principal MainGame.java
+
+	Run As/Java Application
